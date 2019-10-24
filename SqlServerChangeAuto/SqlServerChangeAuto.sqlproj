@@ -184,4 +184,8 @@
     <None Include="Migrations\002_20191024-0831_nmulchan.sql" />
     <None Include="Schema-Model\dbo\Tables\Employee.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Migrations\003_20191024-0955_nmulchan.sql" />
+    <None Include="Schema-Model\dbo\Tables\Address.sql" />
+  </ItemGroup>
 </Project>
