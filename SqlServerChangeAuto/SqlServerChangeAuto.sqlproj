@@ -180,4 +180,8 @@
     <None Include="Schema-Model\dbo\Tables\Department.sql" />
     <None Include="Schema-Model\dbo\Tables\Product.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Migrations\002_20191024-0831_nmulchan.sql" />
+    <None Include="Schema-Model\dbo\Tables\Employee.sql" />
+  </ItemGroup>
 </Project>
