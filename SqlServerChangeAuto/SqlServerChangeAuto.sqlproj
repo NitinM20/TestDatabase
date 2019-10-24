@@ -170,22 +170,13 @@
     <Folder Include="Schema-Model\dbo\Tables\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Pre-Deployment\01_Create_Database.sql" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Post-Deployment\01_Finalize_Deployment.sql" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Migrations\001_20191023-1155_nmulchan.sql" />
+    <None Include="Schema-Model\dbo\Tables\Address.sql" />
     <None Include="Schema-Model\dbo\Tables\Department.sql" />
     <None Include="Schema-Model\dbo\Tables\Product.sql" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Migrations\002_20191024-0831_nmulchan.sql" />
+    <None Include="Migrations\001_20191024-1055_nmulchan.sql" />
     <None Include="Schema-Model\dbo\Tables\Employee.sql" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Migrations\003_20191024-0955_nmulchan.sql" />
-    <None Include="Schema-Model\dbo\Tables\Address.sql" />
+    <None Include="Schema-Model\dbo\Tables\MyTable.sql" />
   </ItemGroup>
 </Project>

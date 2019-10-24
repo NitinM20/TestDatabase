@@ -5,5 +5,5 @@ CREATE TABLE [dbo].[Department]
 [LastName] [nvarchar] (50) NULL
 )
 GO
-ALTER TABLE [dbo].[Department] ADD CONSTRAINT [PK__Departme__3214EC07DAEEBB43] PRIMARY KEY CLUSTERED  ([Id])
+ALTER TABLE [dbo].[Department] ADD CONSTRAINT [PK__Departme__3214EC0798B904D3] PRIMARY KEY CLUSTERED  ([Id])
 GO
